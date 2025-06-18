@@ -33,8 +33,6 @@
 
 ## 🚀 Cara Menjalankan Proyek Android + Flask
 
----
-
 ### 1. Clone Repository Backend (Flask)
 ```
 git clone https://github.com/mwph6d4/BE_MOBILE_TEAM
