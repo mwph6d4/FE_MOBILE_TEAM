@@ -6,6 +6,7 @@
 
 ## 🧰 Teknologi yang Digunakan
 
+- Android Studio
 - Kotlin (bahasa utama)
 - Jetpack Compose (UI modern)
 - MVVM Architecture
@@ -13,7 +14,7 @@
 - Room (SQLite database)
 - Hilt (Dependency Injection)
 - Flask (Backend API)
-- PostgreSQL / SQLite (Server-side database)
+- PostgreSQL (Server-side database)
 
 ---
 
