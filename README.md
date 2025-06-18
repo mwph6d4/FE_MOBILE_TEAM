@@ -52,12 +52,6 @@ Jika berhasil:
  * Running on http://127.0.0.1:5000/
 ```
 
-#### b. Cek IP server backend untuk Android
-- **Emulator:** gunakan `http://10.0.2.2:5000/`
-- **HP asli:** cari IP lokal laptop:
-  - `ipconfig` (Windows) atau `ifconfig` (Linux/Mac)
-  - Misal IP laptop: `192.168.1.5` → Android akses: `http://192.168.1.5:5000/`
-
 ---
 
 ### 2. Clone Repository Android
@@ -75,7 +69,7 @@ cd BE_MOBILE_TEAM
 
 #### b. Atur BASE_URL API di Android
 - Buka file `ApiClient.kt` 
-- Ubah BASE_URL sesuai IP backend:
+- Ubah BASE_URL sesuai IP backend
 
 ---
 
