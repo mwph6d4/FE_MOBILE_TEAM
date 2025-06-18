@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Cara Menjalankan Proyek Android + Flask (Urut & Lengkap)
+## 🚀 Cara Menjalankan Proyek Android + Flask
 
 ---
 
