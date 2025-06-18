@@ -60,7 +60,7 @@ Jika berhasil:
 
 ---
 
-### 📱 2. Clone Repository Android
+### 2. Clone Repository Android
 ```bash
 git clone https://github.com/mwph6dp/FE_MOBILE_TEAM
 cd BE_MOBILE_TEAM
