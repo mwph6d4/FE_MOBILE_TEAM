@@ -63,19 +63,12 @@ cd BE_MOBILE_TEAM
 - Klik **"Open"** lalu pilih folder `BE_MOBILE_TEAM`
 - Tunggu sampai **Gradle sync** selesai
 
----
-
 #### b. Atur BASE_URL API di Android
 - Buka file `ApiClient.kt` 
 - Ubah BASE_URL sesuai IP backend
-
----
 
 #### c. Jalankan Aplikasi Android
 - Hubungkan emulator atau HP ke laptop
 - Klik tombol **Run (▶️)** di Android Studio
 - Aplikasi akan terkoneksi ke backend Flask
-
 ---
-
-
